@@ -1,0 +1,13 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Pp]roject[Ss]ettings/UnityConnectSettings.asset
+**/*.csproj
+**/*.sln
+**/*.userprefs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+

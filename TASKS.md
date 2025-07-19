@@ -1,7 +1,7 @@
 # MonPrime Unity - Task List
 
 ## Project Setup Tasks
-- [ ] Create Unity 2023 LTS project
+- [x] Create Unity 2023 LTS project
 - [ ] Import AR Foundation package
 - [ ] Add ARCore/ARKit XR plugins  
 - [ ] Configure Universal Render Pipeline
